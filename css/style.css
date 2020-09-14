@@ -57,12 +57,12 @@ footer {
     text-align: right;
 }
 
-h2#yellow {
+#yellow h2{
     text-shadow: 5px 5px 2px #c7e2c7;
     color: #000000;
 }
 
-p#yellow {
+#yellow p{
     color: #000000;
 }
 
