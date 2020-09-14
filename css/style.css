@@ -39,6 +39,9 @@ div {
 footer p{
     text-align: right;
     padding-right: 10px;
+}
+
+footer {
     padding-bottom: 10px;
 }
 
