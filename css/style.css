@@ -53,13 +53,17 @@ footer {
 }
 
 #yellow {
-    color: #000000;
     background-color: #ffff00;
     text-align: right;
 }
 
 h2#yellow {
     text-shadow: 5px 5px 2px #c7e2c7;
+    color: #000000;
+}
+
+p#yellow {
+    color: #000000;
 }
 
 #green {
