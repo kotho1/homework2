@@ -25,8 +25,7 @@ p {
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     width: 525px;
     height: auto;
 }
@@ -69,5 +68,4 @@ footer p{
 
 #green {
     background-color: #008000;
-    text-align: left;
 }
